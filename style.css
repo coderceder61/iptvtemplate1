@@ -63,14 +63,14 @@ nav span{
     font-size: 4em;
     color: #fff;
     font-weight: bold;
-    margin-left: 100px;
+    margin-left: 50px;
     margin-top: 50px;
 }
 
 #hero p:nth-child(2){
     font-size: 1.5em;
     color: #fff;
-    margin-left: 100px;
+    margin-left: 50px;
     line-height: 50px;
     font-weight:lighter;
     margin-bottom: 20px;
@@ -83,7 +83,7 @@ nav span{
     border-radius: 20px;
     font-weight: bold;
     font-size: 1.3em;
-    margin-left: 100px;
+    margin-left: 50px;
     margin-top: 90px;
     cursor: pointer;
 }
@@ -429,7 +429,7 @@ i + p{
     /* margin: 30px auto 0 ; */
     cursor: pointer;  
 }
-@media (max-width: 1300px) {
+@media (max-width: 1000px) {
     #logo_hero{
        display: none;
         }
